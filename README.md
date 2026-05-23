@@ -22,7 +22,7 @@ The project is split into two Jupyter notebooks:
 
 ## 2. Dataset
 
-**Source:** Quality Prediction in a Mining Process (Kaggle)  
+**Source:** [Quality Prediction in a Mining Process (Kaggle)](https://www.kaggle.com/datasets/edumagalhaes/quality-prediction-in-a-mining-process?resource=download) 
 **Format:** CSV with comma-as-decimal (European notation), 737,453 raw rows  
 **After cleaning:** 4,097 unique hourly observations (March–September 2017)
 
